@@ -48,7 +48,7 @@ python stegano.py -d image_name.png
 1) Use only .png format files for image
 2) If you encode an image multiple times the old messages are overwritten.
 
-## Enjoy your privacy :)
+## We respect your privacy and security :)
 
 
 
