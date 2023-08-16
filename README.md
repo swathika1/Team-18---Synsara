@@ -1,7 +1,7 @@
 # Team-18---Synsara
 Cloak and Dagger
 
-
+ 
 ## What is steganography?
 
 Steganography is a technique used to conceal secret messages in images. We make use of an ordinary image where a secret message can be hidden among the pixels of the picture. The modified image can be decoded to obtain the original message again.
